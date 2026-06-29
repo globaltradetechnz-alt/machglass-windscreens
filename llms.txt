@@ -1,42 +1,68 @@
-# Machglass Windscreens
+# Machglass Windscreens — Auckland Windscreen & Auto Glass Replacement
 
-> Auckland windscreen and auto glass repair and replacement specialist. Serving Auckland since 1989.
+## Overview
 
-Machglass replaces and repairs windscreens and auto glass for cars, trucks, and commercial vehicles. Mobile service available across the Auckland region. Works with all major NZ insurance companies.
+Machglass Windscreens is an Auckland-based, New Zealand-owned windscreen and auto glass replacement company. Established in 2008, we provide fast, professional windscreen replacement and repair services for cars, trucks, commercial vehicles, and machinery across the greater Auckland region. We are direct-billing partners with all major insurance companies and guarantee every installation with a lifetime workmanship warranty.
 
-## Services
+## Contact Information
 
-- Car windscreen replacement and repair
-- Truck and commercial vehicle glass
-- Windscreen chip and crack repair  
-- Insurance claim processing (AA, State, AMI, Tower, Vero, and all other NZ insurers)
-- Mobile service throughout Auckland
-- Export windscreens
+- **Phone:** 0800 563-563 (0800-Lo-Glass)
+- **Mobile:** 021-757-985
+- **Email:** machglass@gmail.com
+- **Business Hours:** Monday–Friday, 8:00 AM – 5:00 PM
+- **Service Areas:** Greater Auckland including Albany, Auckland CBD, East Auckland, Franklin, Hibiscus Coast, Manukau, North Shore, Rodney, Silverdale, South Auckland
+- **Also Cover:** Hamilton, Tauranga, Wellington, Whangarei (by arrangement)
 
-## Areas Served
+## Core Services
 
-Auckland CBD, North Shore, East Auckland, South Auckland, West Auckland, Manukau, Albany, Silverdale, Hibiscus Coast, Rodney, Franklin
+1. **Windscreen Replacement** — Front windscreens for all makes and models of cars, trucks, buses, and commercial vehicles
+2. **Side & Back Glass** — Car glass replacement for doors, rear screens, quarter vents, and tailgates
+3. **Truck & Bus Glass** — Windscreen and body glass replacement for 100+ truck and bus makes including Hino, Isuzu, Mitsubishi, Volvo, Scania, Kenworth, Mack, Mercedes, MAN, and more
+4. **Machinery Glass** — Windscreen replacement for excavators, rollers, bulldozers, and other heavy machinery
+5. **Mobile Service** — On-site fitting throughout Auckland at your home or workplace
+6. **Insurance Claims** — Direct billing to all major insurance companies (AA, AMI, AMP, ANZ, ASB, BNZ, Covi, FMG, IAG, Lumley, NZI, QBE, State, Vero, Zurich)
+7. **WINZ Quotes** — Quotes for Work and Income New Zealand clients
+8. **Export Orders** — Worldwide shipping of windscreens and auto glass
 
-## Car Makes Serviced
+## Insurance Partners
 
-Alfa Romeo, Audi, BMW, Chrysler, Citroen, Daihatsu, Dodge, Ferrari, Fiat, Ford, Holden, Honda, Hyundai, Isuzu, Jaguar, Jeep, Kia, Lamborghini, Land Rover, Lexus, Mazda, Mercedes, Mitsubishi, Nissan, Peugeot, Porsche, Renault, Rolls Royce, Subaru, Suzuki, Toyota, Volkswagen, Volvo, and more.
+Machglass Windscreens is an approved repairer and direct-billing partner for: AA, AMI, AMP, ANZ, ASB, BNZ, Covi, FMG, IAG, Lumley, NZI, QBE, State, Vero, Zurich, and many more insurance companies.
 
-## Truck Makes Serviced
+## Car Makes Covered
 
-Bedford, DAF, ERF, Freightliner, Hino, International, Isuzu, Kenworth, Mack, MAN, Mercedes, Mitsubishi, Nissan, Scania, Toyota, Volvo, Western Star, and more.
+56+ car makes including: Alfa Romeo, Audi, Austin, Bentley, BMW, Buick, Cadillac, Chevrolet, Chrysler, Citroen, Daewoo, Daihatsu, Daimler, Dodge, Ferrari, Fiat, Ford, Holden, Honda, Hyundai, Isuzu, Jaguar, Jeep, Jensen, Kia, Lada, Lamborghini, Lancia, Land Rover, Lexus, Leyland, Lotus, Maserati, Mazda, Mercedes, Mitsubishi, Morris, Musso, Nissan, Opel, Peugeot, Pontiac, Porsche, Proton, Range Rover, Skoda, SsangYong, Subaru, Suzuki, Toyota, Triumph, Valiant, Volkswagen, Volvo, VW.
 
-## Contact
+## Truck & Bus Makes Covered
 
-- Email form: https://globaltradetechnz-alt.github.io/machglass-windscreens/contact/
-- Insurance claims: https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/
+100+ truck and bus makes including: Acco, Bedford, DAF, ERF, Fiat Ducato, Ford Trader, Forward, Freightliner (Argosy, Atego, Axor, Century, Columbia, Coronado), Hino (Dutro, Rainbow, Ranger), International (Iveco Daily, Navistar, S-Line), Isuzu (C-Series, Elf, F-Series, Giga, Journey, N-Series), Iveco (Eurocargo, Eurostar, Eurotech, Stralis), Kenworth (K100, L700, T2000, T300-T900, T601-T904), Leader, Louisville, Mack (Cruiseliner, Fleetliner, Freedom, Magnum, Metroliner, Midliner, Midlum, Quantum, Traliner, Trident, Ultraliner, Vision), MAN (F2000, L2000, TGA, TGX), Mazda (Parkway, Titan), Mercedes (Actros, Econic, Sprinter, Vito), Mitsubishi (Canter, Fuso, Fuso Fighter, Fuso Shogun, Rosa), Nissan (Atlas, Caravan, Civilian, UD Condor, UD Quon), Renault, Road Boss, Scania, Seddon, Toyota (Coaster, Dyna, Hiace), UD, Unimog, Volvo (F10-F16, F7, FE/FL, FH12-FH580, FL6-FLH, FL7-FL12, FM7-FM12), VW (Kombi, Transporter), Western Star (Constellation, Heritage, Superstar), White.
 
-## Key Pages
+## Service Areas
 
-- [Homepage](https://globaltradetechnz-alt.github.io/machglass-windscreens/)
-- [Car Glass](https://globaltradetechnz-alt.github.io/machglass-windscreens/car_glass/)
-- [Truck Glass](https://globaltradetechnz-alt.github.io/machglass-windscreens/truck_glass/)
-- [Insurance Work](https://globaltradetechnz-alt.github.io/machglass-windscreens/insurance_work/)
-- [Mobile Service](https://globaltradetechnz-alt.github.io/machglass-windscreens/mobile_service/)
-- [Contact](https://globaltradetechnz-alt.github.io/machglass-windscreens/contact/)
-- [Services](https://globaltradetechnz-alt.github.io/machglass-windscreens/services/)
-- [Windscreen Claims](https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/)
+- **Albany** — Windscreen replacement and auto glass repair
+- **Auckland CBD** — City centre mobile and workshop service
+- **East Auckland** — Windscreen and car glass replacement
+- **Franklin** — South Auckland windscreen services
+- **Hibiscus Coast** — North Auckland windscreen replacement
+- **Manukau** — South Auckland mobile windscreen service
+- **North Shore** — Windscreen and auto glass specialists
+- **Rodney** — Rural and mobile windscreen replacement
+- **Silverdale** — North Auckland windscreen repair
+- **South Auckland** — Windscreen and truck glass services
+
+## Key Page Links
+
+- Homepage: /
+- Windscreen Replacement: /windscreens/
+- Car Glass (Side & Back): /car_glass/
+- Truck & Bus Glass: /truck_glass/
+- Machinery Glass: /machinery_glass/
+- Services Overview: /services/
+- Mobile Service: /mobile_service/
+- Insurance Claims: /insurance_work/
+- Export Orders: /export/
+- Contact Us: /contact/
+- Vacancies: /vacancy/
+- WINZ Quotes: /winz_quotes/
+- Windscreen Finance: /windscreens_finance/
+- Sitemap: /sitemap.xml
+- Robots.txt: /robots.txt

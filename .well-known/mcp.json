@@ -1,0 +1,73 @@
+{
+  "name": "Machglass Windscreens",
+  "description": "Auckland-based windscreen and auto glass replacement company. New Zealand owned, established 2008. Services cars, trucks, buses, commercial vehicles, and machinery across greater Auckland and beyond.",
+  "website": "https://www.machglass-windscreens.nz",
+  "contact": {
+    "phone": "0800-563-563",
+    "mobile": "021-757-985",
+    "email": "machglass@gmail.com",
+    "hours": "Monday–Friday, 8:00 AM – 5:00 PM"
+  },
+  "services": [
+    {
+      "name": "Windscreen Replacement",
+      "description": "Front windscreen replacement for all makes and models of cars, trucks, buses, and commercial vehicles",
+      "url": "https://www.machglass-windscreens.nz/windscreens/"
+    },
+    {
+      "name": "Car Glass (Side & Back)",
+      "description": "Door glass, rear screen, quarter vent, and tailgate replacement for cars, wagons, and SUVs",
+      "url": "https://www.machglass-windscreens.nz/car_glass/"
+    },
+    {
+      "name": "Truck & Bus Glass",
+      "description": "Windscreen and body glass replacement for 100+ truck and bus makes",
+      "url": "https://www.machglass-windscreens.nz/truck_glass/"
+    },
+    {
+      "name": "Machinery Glass",
+      "description": "Windscreen replacement for excavators, rollers, bulldozers, and heavy machinery",
+      "url": "https://www.machglass-windscreens.nz/machinery_glass/"
+    },
+    {
+      "name": "Mobile Service",
+      "description": "On-site windscreen fitting at your home or workplace throughout Auckland",
+      "url": "https://www.machglass-windscreens.nz/mobile_service/"
+    },
+    {
+      "name": "Insurance Claims",
+      "description": "Direct billing to all major insurance companies with hassle-free claims processing",
+      "url": "https://www.machglass-windscreens.nz/insurance_work/"
+    },
+    {
+      "name": "Export Orders",
+      "description": "Worldwide shipping of windscreens and auto glass",
+      "url": "https://www.machglass-windscreens.nz/export/"
+    }
+  ],
+  "areas": [
+    "Albany", "Auckland CBD", "East Auckland", "Franklin", "Hibiscus Coast",
+    "Manukau", "North Shore", "Rodney", "Silverdale", "South Auckland"
+  ],
+  "insurance_partners": [
+    "AA", "AMI", "AMP", "ANZ", "ASB", "BNZ", "Covi", "FMG", "IAG",
+    "Lumley", "NZI", "QBE", "State", "Vero", "Zurich"
+  ],
+  "key_pages": {
+    "homepage": "https://www.machglass-windscreens.nz/",
+    "windscreens": "https://www.machglass-windscreens.nz/windscreens/",
+    "car_glass": "https://www.machglass-windscreens.nz/car_glass/",
+    "truck_glass": "https://www.machglass-windscreens.nz/truck_glass/",
+    "machinery_glass": "https://www.machglass-windscreens.nz/machinery_glass/",
+    "services": "https://www.machglass-windscreens.nz/services/",
+    "mobile_service": "https://www.machglass-windscreens.nz/mobile_service/",
+    "insurance_work": "https://www.machglass-windscreens.nz/insurance_work/",
+    "export": "https://www.machglass-windscreens.nz/export/",
+    "contact": "https://www.machglass-windscreens.nz/contact/",
+    "vacancy": "https://www.machglass-windscreens.nz/vacancy/",
+    "winz_quotes": "https://www.machglass-windscreens.nz/winz_quotes/",
+    "windscreens_finance": "https://www.machglass-windscreens.nz/windscreens_finance/"
+  },
+  "sitemap": "https://www.machglass-windscreens.nz/sitemap.xml",
+  "robots": "https://www.machglass-windscreens.nz/robots.txt"
+}

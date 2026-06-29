@@ -1,1317 +1,1086 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/albany/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/auckland_cbd/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/car_glass/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/alfa_romeo/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/audi/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/austin/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/bentley/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/bmw/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/buick/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/cadillac/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/chev/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/chevrolet/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/chrysler/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/citroen/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/daewoo/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/daihatsu/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/daimler/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/dodge/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/ferrari/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/fiat/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/ford/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/holden/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/honda/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/hyundai/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/isuzu/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/jaguar/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/jeep/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/jensen/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/kia/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/lada/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/lamborghini/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/lancia/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/landrover/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/lexus/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/leyland/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/lotus/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/maserati/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/mazda/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/mercedes/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/mitsubishi/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/morris/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/musso/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/nissan/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/opel/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/peugeot/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/pontiac/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/porsche/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/proton/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/range_rover/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/renault/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/rolls_royce/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/rover/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/saab/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/seat/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/skoda/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/ssangyong/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/subaru/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/suzuki/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/toyota/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/triumph/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/valiant/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/volkswagen/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/volvo/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/carglass/vw/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/contact/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/east_auckland/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/export/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/franklin/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/hibiscus_coast/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
+
+  <!-- Main Service Pages -->
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/insurance_work/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/windscreens/</loc>
+    <priority>0.9</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/machinery_glass/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/car_glass/</loc>
+    <priority>0.9</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/manukau/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/truck_glass/</loc>
+    <priority>0.9</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/mobile_service/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/machinery_glass/</loc>
+    <priority>0.9</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/north_shore/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/services/</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/rodney/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/mobile_service/</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/services/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/insurance_work/</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/silverdale/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/export/</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/south_auckland/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreens_finance/</loc>
+    <priority>0.7</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truck_glass/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/winz_quotes/</loc>
+    <priority>0.7</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/acco/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/contact/</loc>
+    <priority>0.7</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/bedford/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/vacancy/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
+
+  <!-- Area Pages -->
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/daf/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/albany/</loc>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/erf/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/auckland_cbd/</loc>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/erfcommander/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/east_auckland/</loc>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/fiatducato/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/franklin/</loc>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/fordtrader/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/hibiscus_coast/</loc>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/forward/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/manukau/</loc>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/freightliner/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/north_shore/</loc>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/freightlinerargosy/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/rodney/</loc>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/freightlineratego/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/silverdale/</loc>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/freightlineraxor/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.machglass-windscreens.nz/south_auckland/</loc>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
   </url>
+
+  <!-- Car Glass Pages (56) -->
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/freightlinercentury/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/alfa_romeo/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/freightlinercolumbia/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/audi/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/freightlinercoronado/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/austin/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/hino/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/bentley/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/hinodutro/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/bmw/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/hinorainbow/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/buick/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/hinoranger/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/cadillac/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/internaionalivecodaily/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/chev/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/international/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/chevrolet/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/internationalnavistar/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/chrysler/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/internationalsline/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/citroen/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/isuzu/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/daewoo/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/isuzucseries/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/daihatsu/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/isuzuelf/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/daimler/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/isuzufseries/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/dodge/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/isuzugiga/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/ferrari/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/isuzujourney/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/fiat/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/isuzunseries/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/ford/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/iveco/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/holden/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/ivecoeurocargo/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/honda/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/ivecoeurostar/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/hyundai/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/ivecoeurotech/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/isuzu/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/ivecostralis/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/jaguar/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/kenworthk100ek100gk104/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/jeep/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/kenworthl700/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/jensen/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/kenwortht2000/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/kia/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/kenwortht300t400t500t600t900/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/lada/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/kenwortht601t604t904/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.machglass-windscreens.nz/carglass/lamborghini/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/leader/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/carglass/lancia/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/carglass/landrover/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/louisville/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/carglass/lexus/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/carglass/leyland/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mack/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/carglass/lotus/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/carglass/maserati/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mackcruiseliner/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/carglass/mazda/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/carglass/mercedes/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mackfleetliner/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/carglass/mitsubishi/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/carglass/morris/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mackfreedom/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/carglass/musso/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/carglass/nissan/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mackmagnum/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/carglass/opel/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/carglass/peugeot/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mackmetroliner/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/carglass/pontiac/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/carglass/porsche/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mackmidliner/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/carglass/proton/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/carglass/range_rover/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mackmidlum/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/carglass/skoda/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/carglass/ssangyong/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mackquantum/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/carglass/subaru/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/carglass/suzuki/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/macktraliner/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/carglass/toyota/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/carglass/triumph/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/macktrident/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/carglass/valiant/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/carglass/volkswagen/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mackultraliner/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/carglass/volvo/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/carglass/vw/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
+
+  <!-- Truck Glass Pages (100) -->
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mackvision/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/acco/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/bedford/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/man/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/daf/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/erf/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/manf2000/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/erfcommander/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/fiatducato/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/manl2000/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/fordtrader/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/forward/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mantga/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/freightliner/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/freightlinerargosy/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mantgx/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/freightlineratego/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/freightlineraxor/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mazdaparkway/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/freightlinercentury/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/freightlinercolumbia/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mazdatitan/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/freightlinercoronado/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/hino/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mercedesactros/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/hinodutro/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/hinorainbow/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mercedeseconic/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/hinoranger/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/internaionalivecodaily/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mercedessprinter/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/international/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/internationalnavistar/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mercedesvito/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/internationalsline/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/isuzu/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mitsubishicanter/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/isuzucseries/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/isuzuelf/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mitsubishifuso/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/isuzufseries/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/isuzugiga/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mitsubishifusofighter/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/isuzujourney/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/isuzunseries/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mitsubishifusoshogun/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/iveco/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/ivecoeurocargo/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/mitsubishirosa/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/ivecoeurostar/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/ivecoeurotech/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/nissanatlas/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/ivecostralis/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/kenworthk100ek100gk104/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/nissancaravan/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/kenworthl700/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/kenwortht2000/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/nissancivilian/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/kenwortht300t400t500t600t900/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/kenwortht601t604t904/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/nissanudcondor/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/leader/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/louisville/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/nissanudquon/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mack/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mackcruiseliner/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/renaulttruck/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mackfleetliner/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mackfreedom/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/roadboss/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mackmagnum/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mackmetroliner/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/scania/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mackmidliner/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mackmidlum/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/seddon/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mackquantum/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/macktraliner/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/toyotacoaster/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/macktrident/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mackultraliner/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/toyotadyna/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mackvision/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/man/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/toyotahiace/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/manf2000/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/manl2000/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/ud/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mantga/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mantgx/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/unimog/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mazdaparkway/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mazdatitan/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/volvo/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mercedesactros/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mercedeseconic/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/volvof10f12f16/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mercedessprinter/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mercedesvito/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/volvof7/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mitsubishicanter/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mitsubishifuso/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/volvofefl/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mitsubishifusofighter/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mitsubishifusoshogun/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/volvofh12fh13fh16fh565fh580/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/mitsubishirosa/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/nissanatlas/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/volvofl6fleflh/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/nissancaravan/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/nissancivilian/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/volvofl7fl10fl12/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/nissanudcondor/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/nissanudquon/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/volvofm7fm9fm12/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/renaulttruck/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/roadboss/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/vwvolkswagenkombi/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/scania/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/seddon/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/vwvolkswagentransporter/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/toyotacoaster/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/toyotadyna/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/westernstar/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/toyotahiace/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/ud/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/westernstarconstellation/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/unimog/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/volvo/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/westernstarheritage/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/volvof10f12f16/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/volvof7/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/westernstarsuperstar/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/volvofefl/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/volvofh12fh13fh16fh565fh580/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/truckglass/white/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/volvofl6fleflh/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/volvofl7fl10fl12/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/vacancy/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/volvofm7fm9fm12/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/vwvolkswagenkombi/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/aa/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/vwvolkswagentransporter/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/westernstar/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/ami/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/westernstarconstellation/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/westernstarheritage/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/amp/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/truckglass/westernstarsuperstar/</loc>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.machglass-windscreens.nz/truckglass/white/</loc>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
+
+  <!-- Insurance Claim Pages (35) -->
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/ansvar/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/aa/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/aon/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/ami/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/aonstylecover/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/amp/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/autosure/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/ansvar/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/campercare/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/aon/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/chinainsurance/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/aonstylecover/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/coop/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/autosure/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/covi/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/campercare/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/fintel/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/chinainsurance/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/fmg/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/coop/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/goinsurance/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/covi/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/gtinsurance/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/fintel/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/iag/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/fmg/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/insurancebrokers/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/goinsurance/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/iua/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/gtinsurance/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/jlt/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/iag/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/lantern/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/insurancebrokers/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/lumley/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/iua/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/mainstream/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/jlt/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/medicalassurance/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/lantern/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/nac/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/lumley/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/nationalautoclub/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/mainstream/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/newindia/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/medicalassurance/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/prestigio/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/nac/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/protecta/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/nationalautoclub/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/sis/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/newindia/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/stateinsurance/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/prestigio/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/swan/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/protecta/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/tlc/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/sis/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/tmnfnz/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/stateinsurance/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/vero/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/swan/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/zurich/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/tlc/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreens/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/tmnfnz/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreens_finance/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/vero/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://globaltradetechnz-alt.github.io/machglass-windscreens/winz_quotes/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://www.machglass-windscreens.nz/windscreenclaim/zurich/</loc>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
+
 </urlset>
